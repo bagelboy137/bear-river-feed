@@ -1,0 +1,1296 @@
+{
+ "generatedAt": "2026-10-18T17:04:06Z",
+ "sources": [
+  {
+   "id": "slate-run",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Slate Run Tackle",
+   "status": "ok",
+   "town": "Slate Run, PA",
+   "url": "https://wolfesgeneralstore.com/fishing/stream-conditions/"
+  },
+  {
+   "id": "sky-blue",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Sky Blue Outfitters",
+   "status": "ok",
+   "town": "Pennsylvania",
+   "url": "https://skyblueoutfitters.com/stream-report/"
+  },
+  {
+   "id": "mike-heck",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Mike Heck's Trout Guides",
+   "status": "ok",
+   "town": "Chambersburg, PA",
+   "url": "https://www.fallingsprings.com/mike-hecks-fishing-report"
+  },
+  {
+   "id": "homewaters",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "HomeWaters Club",
+   "status": "ok",
+   "town": "Spruce Creek, PA",
+   "url": "https://www.homewatersclub.com/news/stream-reports/"
+  },
+  {
+   "id": "feathered-hook",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "The Feathered Hook",
+   "status": "ok",
+   "town": "Coburn, PA",
+   "url": "https://thefeatheredhook.com/blog/"
+  },
+  {
+   "id": "delaware-river-club",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "The Delaware River Club",
+   "status": "ok",
+   "town": "Starlight, PA",
+   "url": "https://thedelawareriverclub.com/category/river-reports/"
+  },
+  {
+   "id": "west-branch-angler",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "West Branch Angler",
+   "status": "ok",
+   "town": "Hancock, NY",
+   "url": "https://www.westbranchresort.com/delaware-fishing-report"
+  },
+  {
+   "id": "beaverkill-angler",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Beaverkill Angler",
+   "status": "ok",
+   "town": "Roscoe, NY",
+   "url": "https://beaverkillangler.com/blogs/fishing-report"
+  },
+  {
+   "id": "trout-town",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Trout Town Flies",
+   "status": "ok",
+   "town": "Roscoe, NY",
+   "url": "https://trouttownflies.com/reports/"
+  },
+  {
+   "id": "beaverkill-books",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "The Beaverkill (weekly report)",
+   "status": "ok",
+   "town": "Catskills, NY",
+   "url": "https://thebeaverkill.com/weekly-fishing-report"
+  },
+  {
+   "id": "yankee-angler",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Yankee Angler",
+   "status": "ok",
+   "town": "Pulaski, NY",
+   "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
+  },
+  {
+   "id": "douglaston",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Douglaston Salmon Run",
+   "status": "ok",
+   "town": "Pulaski, NY · private fee water",
+   "url": "https://douglastonsalmonrun.com/fishing-reports/"
+  },
+  {
+   "id": "hungry-trout",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "The Hungry Trout",
+   "status": "ok",
+   "town": "Wilmington, NY",
+   "url": "https://hungrytroutflyshop.com/adirondack-fishing-reports/"
+  },
+  {
+   "id": "backwater-angler",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Backwater Angler",
+   "status": "ok",
+   "town": "Monkton, MD",
+   "url": "https://backwaterangler.com/"
+  },
+  {
+   "id": "savage-river-outfitters",
+   "lastChecked": "2026-10-18T17:04:06Z",
+   "shop": "Savage River Outfitters",
+   "status": "ok",
+   "town": "Garrett County, MD",
+   "url": "https://www.savageriveroutfitters.com/fishing-report/"
+  }
+ ],
+ "streams": [
+  {
+   "gaugeIDs": [
+    "01555000"
+   ],
+   "id": "penns-creek",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/penns-creek-stream-report"
+    },
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "slow",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [
+      "Ants",
+      "Terrestrials",
+      "Stimulator"
+     ],
+     "flowCfs": 239.0,
+     "flowGauge": "01555000",
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "Dropping and very clear, making for difficult fishing that calls for a low, stealthy approach. Ants, terrestrials or a stimulator-nymph dropper for searching.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Penns Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01546400",
+    "01546500",
+    "01547100"
+   ],
+   "id": "spring-creek",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/spring-creek-stream-report"
+    },
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [
+      "Ants",
+      "Terrestrials",
+      "Stimulator"
+     ],
+     "flowCfs": 53.3,
+     "flowGauge": "01546400",
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "Flowing at a comfortable level in early October; ants, terrestrials and a stimulator with small nymph dropper suggested for searching.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Spring Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01558000"
+   ],
+   "id": "little-juniata-river",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/little-juniata-river-stream-report"
+    },
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [],
+   "river": "Little Juniata River",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01548030"
+   ],
+   "id": "big-fishing-creek",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/big-fishing-creek-stream-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [
+      "Ants",
+      "Terrestrials",
+      "Stimulator"
+     ],
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "At a good level in early October; ants and other terrestrials work as searching patterns, as does a stimulator trailing a small nymph.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Big Fishing Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [],
+   "id": "spruce-creek",
+   "links": [],
+   "reports": [],
+   "river": "Spruce Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01559000",
+    "01563500",
+    "01564895",
+    "01567000"
+   ],
+   "id": "juniata-river",
+   "links": [
+    {
+     "shop": "River Redemption",
+     "url": "https://www.riverredemptionllc.com/harrisburg-fishing-reports"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-13T16:00:00Z",
+     "flies": [
+      "Minnow imitation",
+      "Crayfish imitation"
+     ],
+     "flowCfs": 1170.0,
+     "flowGauge": "01559000",
+     "hatches": [],
+     "sourceID": "homewaters",
+     "summary": "After 1–2 inches of rain, flows above average with some color. Smallmouth fishing very good, mostly subsurface on minnow and crayfish patterns; some topwater.",
+     "url": "https://www.homewatersclub.com/news/stream-reports/"
+    },
+    {
+     "condition": "good",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [
+      "Topwater"
+     ],
+     "flowCfs": 467.0,
+     "flowGauge": "01559000",
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "Smallmouth bass continue to hit topwater flies in early October.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Juniata River",
+   "state": "PA",
+   "warmwater": true
+  },
+  {
+   "gaugeIDs": [
+    "01554000",
+    "01570500",
+    "01576000"
+   ],
+   "id": "susquehanna-river",
+   "links": [
+    {
+     "shop": "River Redemption",
+     "url": "https://www.riverredemptionllc.com/harrisburg-fishing-reports"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [
+      "Topwater"
+     ],
+     "flowCfs": 6760.0,
+     "flowGauge": "01554000",
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "Smallmouth bass continue to hit topwater flies in early October.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Susquehanna River",
+   "state": "PA",
+   "warmwater": true
+  },
+  {
+   "gaugeIDs": [
+    "01571500"
+   ],
+   "id": "yellow-breeches-creek",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/yellow-breeches-stream-report"
+    },
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fairToGood",
+     "date": "2026-10-18T16:00:00Z",
+     "flies": [
+      "CDC caddis",
+      "Elk hair caddis",
+      "October caddis",
+      "BWO emerger",
+      "Griffith's Gnat",
+      "Cress bug"
+     ],
+     "hatches": [
+      "Dark tan caddis",
+      "October caddis",
+      "Midges",
+      "BWO",
+      "Tricos",
+      "Terrestrials"
+     ],
+     "sourceID": "mike-heck",
+     "summary": "Camp Hill gauge 1.9 ft. Upper creek clear, 51–53°F; lower stained, 53–55°F. On warmer days trout rise to caddis, midges and BWOs.",
+     "url": "https://www.fallingsprings.com/stream-conditions"
+    }
+   ],
+   "river": "Yellow Breeches Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [],
+   "id": "big-spring-creek",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/big-spring-creek-stream-report"
+    },
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-18T16:00:00Z",
+     "flies": [
+      "Cress bug",
+      "Scud",
+      "Midge pupa",
+      "Griffith's Gnat",
+      "San Juan worm",
+      "Pheasant tail"
+     ],
+     "hatches": [
+      "Midges",
+      "BWO",
+      "Tan caddis",
+      "Terrestrials"
+     ],
+     "sourceID": "mike-heck",
+     "summary": "Clear, 50°F, slightly below normal flow. Trout sipping midges through the day, BWOs on and off, some tan caddis. Wary fish; approach low.",
+     "url": "https://www.fallingsprings.com/stream-conditions"
+    }
+   ],
+   "river": "Big Spring Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [],
+   "id": "letort-spring-run",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/letort-spring-run-stream-report"
+    },
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [],
+   "river": "Letort Spring Run",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [],
+   "id": "falling-spring-branch",
+   "links": [
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-18T16:00:00Z",
+     "flies": [
+      "BWO emerger",
+      "Trico spinner",
+      "Griffith's Gnat",
+      "Cress bug",
+      "Scud",
+      "Pheasant tail"
+     ],
+     "hatches": [
+      "Midges",
+      "Tricos",
+      "BWO",
+      "Terrestrials"
+     ],
+     "sourceID": "mike-heck",
+     "summary": "Clear, 52°F; flows below normal in the fly-only water, normal through town. Midges, tricos, some BWOs; picky wild trout.",
+     "url": "https://www.fallingsprings.com/stream-conditions"
+    }
+   ],
+   "river": "Falling Spring Branch",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01614500"
+   ],
+   "id": "conococheague-creek",
+   "links": [],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-18T16:00:00Z",
+     "flies": [
+      "BWO emerger",
+      "Elk hair caddis",
+      "October caddis",
+      "Woolly bugger",
+      "Mickey Finn",
+      "Pheasant tail"
+     ],
+     "hatches": [
+      "Midges",
+      "BWO",
+      "Tan caddis",
+      "Tricos",
+      "October caddis",
+      "Terrestrials"
+     ],
+     "sourceID": "mike-heck",
+     "summary": "Low flow at 1.7 ft, stained, 50–55°F. A few trout rising to midges, BWOs, tan and October caddis.",
+     "url": "https://www.fallingsprings.com/stream-conditions"
+    }
+   ],
+   "river": "Conococheague Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01619000"
+   ],
+   "id": "antietam-creek",
+   "links": [],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-18T16:00:00Z",
+     "flies": [
+      "Cress bug",
+      "Scud",
+      "Pheasant tail",
+      "CDC caddis",
+      "Woolly bugger",
+      "Sculpin"
+     ],
+     "hatches": [
+      "Midges",
+      "BWO",
+      "Dark tan caddis",
+      "Tricos",
+      "October caddis"
+     ],
+     "sourceID": "mike-heck",
+     "summary": "Shop's private East Branch water near Waynesboro: low at 2.6 ft, mostly stained, 49–55°F; one section very dirty, the spring-fed section clear.",
+     "url": "https://www.fallingsprings.com/stream-conditions"
+    }
+   ],
+   "river": "Antietam Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01571184"
+   ],
+   "id": "mountain-creek",
+   "links": [],
+   "reports": [],
+   "river": "Mountain Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01470960",
+    "01471000"
+   ],
+   "id": "tulpehocken-creek",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/tulpehocken-creek-stream-report"
+    }
+   ],
+   "reports": [],
+   "river": "Tulpehocken Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01473169"
+   ],
+   "id": "valley-creek",
+   "links": [
+    {
+     "shop": "TCO Fly Shop",
+     "url": "https://www.tcoflyfishing.com/pages/valley-creek-stream-report"
+    }
+   ],
+   "reports": [],
+   "river": "Valley Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01471875"
+   ],
+   "id": "manatawny-creek",
+   "links": [],
+   "reports": [
+    {
+     "condition": "slow",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [],
+     "flowCfs": 21.2,
+     "flowGauge": "01471875",
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "Low water and slow fishing, though eastern PA water temperatures have finally become favorable.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Manatawny Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01447800",
+    "01449000",
+    "01451000",
+    "01453000",
+    "01454700"
+   ],
+   "id": "lehigh-river",
+   "links": [
+    {
+     "shop": "Precision Fly & Tackle",
+     "url": "https://precisionflyandtackle.com/pages/stream-conditions"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [],
+     "flowCfs": 666.0,
+     "flowGauge": "01447800",
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "Fall hatches beginning; a big scheduled weekend release was expected to raise flows, needing roughly two days before fishing well again.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Lehigh River",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01449800",
+    "01449360"
+   ],
+   "id": "pohopoco-creek",
+   "links": [],
+   "reports": [],
+   "river": "Pohopoco Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01451500",
+    "01451380",
+    "01451650"
+   ],
+   "id": "little-lehigh-creek",
+   "links": [],
+   "reports": [],
+   "river": "Little Lehigh Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [],
+   "id": "saucon-creek",
+   "links": [],
+   "reports": [],
+   "river": "Saucon Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01446775",
+    "01446776"
+   ],
+   "id": "bushkill-creek",
+   "links": [],
+   "reports": [],
+   "river": "Bushkill Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01440400",
+    "01442500"
+   ],
+   "id": "brodhead-creek",
+   "links": [],
+   "reports": [],
+   "river": "Brodhead Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01534300",
+    "01534500",
+    "01534860",
+    "01536000"
+   ],
+   "id": "lackawanna-river",
+   "links": [],
+   "reports": [],
+   "river": "Lackawanna River",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01548500",
+    "01549700"
+   ],
+   "id": "pine-creek",
+   "links": [
+    {
+     "shop": "Tackle Shack",
+     "url": "https://shoptackleshack.com/blogs/upper-pine-creek-fly-fishing-hatch-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-17T16:00:00Z",
+     "flies": [
+      "Terrestrials",
+      "BWO",
+      "Lively Legz nymph",
+      "Pheasant tail",
+      "Light streamer",
+      "Elk hair caddis"
+     ],
+     "flowCfs": 153.0,
+     "flowGauge": "01548500",
+     "hatches": [
+      "BWO",
+      "Brown caddis",
+      "October caddis"
+     ],
+     "sourceID": "slate-run",
+     "summary": "Low, clear water with ideal fall temperatures; trout feeding well, rising to evening caddis, with nymphs and streamers producing through the day.",
+     "url": "https://wolfesgeneralstore.com/fishing/stream-conditions/"
+    },
+    {
+     "condition": "slow",
+     "date": "2026-10-08T16:00:00Z",
+     "flies": [
+      "Ants",
+      "Terrestrials",
+      "Stimulator"
+     ],
+     "flowCfs": 100.0,
+     "flowGauge": "01548500",
+     "hatches": [],
+     "sourceID": "sky-blue",
+     "summary": "Levels low throughout the valley as of early October; terrestrials and a dry with small nymph dropper are the shop's central PA searching picks.",
+     "url": "https://skyblueoutfitters.com/stream-report/"
+    }
+   ],
+   "river": "Pine Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01545600"
+   ],
+   "id": "young-womans-creek",
+   "links": [],
+   "reports": [],
+   "river": "Young Womans Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01544500",
+    "01545000"
+   ],
+   "id": "kettle-creek",
+   "links": [
+    {
+     "shop": "Tackle Shack",
+     "url": "https://shoptackleshack.com/blogs/upper-pine-creek-fly-fishing-hatch-report"
+    },
+    {
+     "shop": "Dark Skies Fly Fishing",
+     "url": "https://darkskiesflyfishing.com/stream-reports/"
+    }
+   ],
+   "reports": [],
+   "river": "Kettle Creek",
+   "state": "PA"
+  },
+  {
+   "gaugeIDs": [
+    "01426500",
+    "01425000"
+   ],
+   "id": "west-branch-delaware",
+   "links": [
+    {
+     "shop": "West Branch Angler (Orvis report)",
+     "url": "https://fishingreports.orvis.com/northeast/new-york/delaware-river-west-branch"
+    },
+    {
+     "shop": "Dette Trout Flies",
+     "url": "https://detteflies.com/pages/daily-fishing-report"
+    },
+    {
+     "shop": "CNY TroutFitter",
+     "url": "https://www.cnytroutfitter.com/blogs/angler-119s-delaware-river-fishing-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fairToGood",
+     "date": "2026-10-18T11:28:19Z",
+     "flies": [
+      "Small olive",
+      "Nymphs",
+      "Streamers"
+     ],
+     "flowCfs": 347.0,
+     "hatches": [
+      "BWO",
+      "Hebe",
+      "Tan caddis",
+      "Light Cahill",
+      "Isonychia"
+     ],
+     "sourceID": "delaware-river-club",
+     "summary": "Cannonsville release 150 cfs; Hale Eddy 347 cfs, 48°F. Small olives are the main bug; nymphs and streamers early, hatches afternoon into evening.",
+     "url": "https://thedelawareriverclub.com/delaware-river-report-october-18-2026/"
+    },
+    {
+     "condition": "fair",
+     "date": "2026-10-18T11:15:00Z",
+     "flies": [
+      "Nymphs",
+      "Streamers",
+      "Dry dropper"
+     ],
+     "flowCfs": 347.0,
+     "hatches": [
+      "BWO",
+      "Hebe",
+      "Isonychia",
+      "Caddis",
+      "Midges",
+      "Spinners"
+     ],
+     "sourceID": "trout-town",
+     "summary": "Low again: Hale Eddy 347 cfs, 47.5°F; Stilesville 163 cfs. Wadeable, but floating tough to impossible. Across the area, fish favored nymphs and streamers.",
+     "url": "https://trouttownflies.com/reports/"
+    },
+    {
+     "condition": "slow",
+     "date": "2026-10-16T14:22:38Z",
+     "flies": [
+      "BWO",
+      "Isonychia",
+      "Caddis"
+     ],
+     "flowCfs": 348.0,
+     "flowGauge": "01426500",
+     "hatches": [
+      "BWO",
+      "Isonychia",
+      "Spinners"
+     ],
+     "sourceID": "beaverkill-angler",
+     "summary": "Low, just under 340 cfs: good wading, poor floating. Algae bloom fouls nymphs, so fish the surface with long leaders. BWOs, late Isonychia, spinners.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
+    },
+    {
+     "condition": "fairToGood",
+     "date": "2026-09-21T16:00:00Z",
+     "flies": [
+      "BWO",
+      "Rusty spinner",
+      "Winged ant",
+      "Isonychia",
+      "Cahill",
+      "Streamer"
+     ],
+     "flowCfs": 680.0,
+     "flowGauge": "01426500",
+     "hatches": [
+      "BWO",
+      "Rusty spinner",
+      "Isonychia",
+      "Cahill"
+     ],
+     "sourceID": "west-branch-angler",
+     "summary": "Upper West 459 cfs, 51°F; Hale Eddy 689 cfs, 54°F. Lower river fishing well, upper weedy with algae. Afternoon BWOs; stain helps morning streamers.",
+     "url": "https://www.westbranchresort.com/delaware-fishing-report"
+    }
+   ],
+   "river": "West Branch Delaware",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "01417000",
+    "01417500",
+    "01421500"
+   ],
+   "id": "east-branch-delaware",
+   "links": [
+    {
+     "shop": "Dette Trout Flies",
+     "url": "https://detteflies.com/pages/daily-fishing-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "slow",
+     "date": "2026-10-16T14:22:38Z",
+     "flies": [
+      "Nymphs",
+      "Small dries"
+     ],
+     "flowCfs": 89.4,
+     "flowGauge": "01417000",
+     "hatches": [
+      "BWO",
+      "Isonychia"
+     ],
+     "sourceID": "beaverkill-angler",
+     "summary": "Low, just under 150 cfs, with tough fishing reported. Technical water needing long leaders; nymphs and small flies give the best odds.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
+    }
+   ],
+   "river": "East Branch Delaware",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "01427207",
+    "01427510"
+   ],
+   "id": "upper-delaware",
+   "links": [
+    {
+     "shop": "Dette Trout Flies",
+     "url": "https://detteflies.com/pages/daily-fishing-report"
+    },
+    {
+     "shop": "CNY TroutFitter",
+     "url": "https://www.cnytroutfitter.com/blogs/angler-119s-delaware-river-fishing-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-09-21T16:00:00Z",
+     "flies": [
+      "BWO",
+      "Rusty spinner",
+      "Winged ant",
+      "Dry dropper"
+     ],
+     "flowCfs": 1700.0,
+     "flowGauge": "01427207",
+     "hatches": [
+      "BWO",
+      "Rusty spinner",
+      "Isonychia",
+      "Cahill"
+     ],
+     "sourceID": "west-branch-angler",
+     "summary": "Main stem at Lordville 1,730 cfs and 60°F, in good shape with safe temperatures and fishing well. Afternoon BWOs and spinners; scattered Isonychia and Cahills.",
+     "url": "https://www.westbranchresort.com/delaware-fishing-report"
+    }
+   ],
+   "river": "Upper Delaware River",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "01420500"
+   ],
+   "id": "beaverkill",
+   "links": [
+    {
+     "shop": "Dette Trout Flies",
+     "url": "https://detteflies.com/pages/daily-fishing-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fairToGood",
+     "date": "2026-10-16T14:22:38Z",
+     "flies": [
+      "Tan caddis",
+      "Gray caddis",
+      "Isonychia",
+      "BWO",
+      "Griffith's Gnat",
+      "Pheasant tail"
+     ],
+     "flowCfs": 278.0,
+     "flowGauge": "01420500",
+     "hatches": [
+      "Caddis",
+      "Isonychia",
+      "BWO",
+      "Spinners"
+     ],
+     "sourceID": "beaverkill-angler",
+     "summary": "Low, around 200 cfs, yet many good reports. Small dries by day and spinners at dusk produce; tan or gray caddis, Isonychia and BWOs.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
+    }
+   ],
+   "river": "Beaverkill",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "01419500"
+   ],
+   "id": "willowemoc-creek",
+   "links": [
+    {
+     "shop": "Dette Trout Flies",
+     "url": "https://detteflies.com/pages/daily-fishing-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "slow",
+     "date": "2026-10-16T14:22:38Z",
+     "flies": [
+      "Dry dropper"
+     ],
+     "flowCfs": 87.7,
+     "flowGauge": "01419500",
+     "hatches": [],
+     "sourceID": "beaverkill-angler",
+     "summary": "Low, just over 55 cfs; trout very wary and holding near the bottom of deep pockets. Shop suggests resting it or fishing a dry-dropper.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
+    }
+   ],
+   "river": "Willowemoc Creek",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "01435000",
+    "01436000",
+    "01436690",
+    "01437500"
+   ],
+   "id": "neversink-river",
+   "links": [
+    {
+     "shop": "Dette Trout Flies",
+     "url": "https://detteflies.com/pages/daily-fishing-report"
+    }
+   ],
+   "reports": [],
+   "river": "Neversink River",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "01362200",
+    "01362500",
+    "0136219503"
+   ],
+   "id": "esopus-creek",
+   "links": [],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-18T11:15:00Z",
+     "flies": [
+      "Nymphs",
+      "Streamers",
+      "Dry dropper"
+     ],
+     "flowCfs": 801.0,
+     "hatches": [
+      "BWO",
+      "Hebe",
+      "Isonychia",
+      "Caddis",
+      "Midges",
+      "Spinners"
+     ],
+     "sourceID": "trout-town",
+     "summary": "High at 801 cfs and 53°F ahead of portal work, yet still marked wadeable. Across the area, fish favored nymphs and streamers.",
+     "url": "https://trouttownflies.com/reports/"
+    }
+   ],
+   "river": "Esopus Creek",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "04250200"
+   ],
+   "id": "salmon-river",
+   "links": [
+    {
+     "shop": "Whitaker's",
+     "url": "https://whitakers.com/blogs/daily-report"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-18T16:04:36Z",
+     "flies": [],
+     "hatches": [],
+     "sourceID": "yankee-angler",
+     "summary": "Thousands of kings and coho throughout the river with steelhead and browns mixed in; runs have slowed and most salmon are now on spawning gravel.",
+     "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
+    },
+    {
+     "condition": "fair",
+     "date": "2026-10-18T13:20:44Z",
+     "flies": [],
+     "flowCfs": 244.0,
+     "hatches": [],
+     "sourceID": "douglaston",
+     "summary": "Private fee stretch: 185 cfs release, 244 cfs at Pineville, 48°F. Success slow to moderate up top, good mid-section; kings, coho, steelhead, browns.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/18/113783/"
+    }
+   ],
+   "river": "Salmon River",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [],
+   "id": "west-branch-ausable",
+   "links": [
+    {
+     "shop": "Kalil's Upstate Outfitters (Orvis report)",
+     "url": "https://fishingreports.orvis.com/northeast/new-york/ausable-river-west-branch"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-16T16:00:00Z",
+     "flies": [
+      "Ausable Bomber",
+      "Chubby Chernobyl",
+      "Girdle Bug",
+      "Zug Bug",
+      "Pheasant tail",
+      "Sparkle Minnow"
+     ],
+     "flowCfs": 626.0,
+     "hatches": [
+      "Caddis",
+      "Stoneflies",
+      "Isonychia",
+      "BWO",
+      "Hoppers",
+      "Beetles"
+     ],
+     "shopWord": "Good",
+     "sourceID": "hungry-trout",
+     "summary": "626 cfs, clear, 52°F, settled to a nice flow after high water. Big streamers and rubber-legged nymphs producing; terrestrial and attractor dries, BWOs, caddis.",
+     "url": "https://hungrytroutflyshop.com/a-rainy-day-at-last/"
+    }
+   ],
+   "river": "West Branch Ausable River",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "04273500"
+   ],
+   "id": "saranac-river",
+   "links": [
+    {
+     "shop": "Kalil's Upstate Outfitters (Orvis report)",
+     "url": "https://fishingreports.orvis.com/northeast/new-york/saranac-river"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-16T16:00:00Z",
+     "flies": [],
+     "flowCfs": 1080.0,
+     "flowGauge": "04273500",
+     "hatches": [],
+     "sourceID": "hungry-trout",
+     "summary": "Strong reports this past week, dries and streamers working, evenings best. Smallmouth, pike and trout caught; trout mainly mornings or from reservoir depths.",
+     "url": "https://hungrytroutflyshop.com/a-rainy-day-at-last/"
+    }
+   ],
+   "river": "Saranac River",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "04276500"
+   ],
+   "id": "boquet-river",
+   "links": [],
+   "reports": [],
+   "river": "Boquet River",
+   "state": "NY"
+  },
+  {
+   "gaugeIDs": [
+    "01581920",
+    "01582500"
+   ],
+   "id": "gunpowder-falls",
+   "links": [
+    {
+     "shop": "Great Feathers (Orvis report)",
+     "url": "https://fishingreports.orvis.com/northeast/maryland/big-gunpowder-falls-river"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-16T17:48:03Z",
+     "flies": [
+      "Caddis"
+     ],
+     "flowCfs": 30.2,
+     "flowGauge": "01581920",
+     "hatches": [
+      "Midges",
+      "BWO",
+      "Slate drake"
+     ],
+     "sourceID": "backwater-angler",
+     "summary": "29.7 cfs, clear, 56°F, now below bankfull and easier to wade. Midges and BWOs strong mid-morning on flats; few slate drakes. Avoid trout redds.",
+     "url": "https://backwaterangler.com/2026/10/16/gunpowder-river-stream-report-22/"
+    }
+   ],
+   "river": "Gunpowder Falls",
+   "state": "MD"
+  },
+  {
+   "gaugeIDs": [
+    "01597500",
+    "01596500"
+   ],
+   "id": "savage-river",
+   "links": [
+    {
+     "shop": "Savage River Angler (Orvis report)",
+     "url": "https://fishingreports.orvis.com/northeast/maryland/savage-river"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "fair",
+     "date": "2026-10-15T16:00:00Z",
+     "flies": [
+      "Pheasant tail",
+      "Zebra midge",
+      "Perdigon"
+     ],
+     "flowCfs": 74.2,
+     "flowGauge": "01597500",
+     "hatches": [
+      "BWO"
+     ],
+     "sourceID": "savage-river-outfitters",
+     "summary": "Below the dam 75 cfs, 62°F; lower river off-color but clearing. Weak evening BWO hatch; dark nymphs and dry-droppers working. Upper river at good levels.",
+     "url": "https://www.savageriveroutfitters.com/fishing-report/"
+    }
+   ],
+   "river": "Savage River",
+   "state": "MD"
+  },
+  {
+   "gaugeIDs": [
+    "01595800",
+    "01598500"
+   ],
+   "id": "north-branch-potomac",
+   "links": [
+    {
+     "shop": "Savage River Angler (Orvis report)",
+     "url": "https://fishingreports.orvis.com/northeast/maryland/north-branch-potomac"
+    }
+   ],
+   "reports": [
+    {
+     "condition": "good",
+     "date": "2026-10-15T16:00:00Z",
+     "flies": [
+      "Pheasant tail",
+      "Zebra midge",
+      "Perdigon"
+     ],
+     "flowCfs": 354.0,
+     "flowGauge": "01595800",
+     "hatches": [],
+     "sourceID": "savage-river-outfitters",
+     "summary": "Fishing well: 350 cfs at Barnum, water mid-50s. Stretch below the closed mill near Westernport has cleared. Dark nymphs as on the Savage.",
+     "url": "https://www.savageriveroutfitters.com/fishing-report/"
+    }
+   ],
+   "river": "North Branch Potomac",
+   "state": "MD"
+  }
+ ],
+ "version": 1
+}
