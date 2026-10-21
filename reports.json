@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-21T11:49:14Z",
+ "generatedAt": "2026-10-21T21:07:44Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-10-21T11:49:14Z",
+   "lastChecked": "2026-10-21T21:07:44Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -841,29 +841,6 @@
      "sourceID": "beaverkill-angler",
      "summary": "Low, just under 340 cfs: good wading, poor floating. Algae bloom fouls nymphs, so fish the surface with long leaders. BWOs, late Isonychia, spinners.",
      "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
-    },
-    {
-     "condition": "fairToGood",
-     "date": "2026-09-21T16:00:00Z",
-     "flies": [
-      "BWO",
-      "Rusty spinner",
-      "Winged ant",
-      "Isonychia",
-      "Cahill",
-      "Streamer"
-     ],
-     "flowCfs": 680.0,
-     "flowGauge": "01426500",
-     "hatches": [
-      "BWO",
-      "Rusty spinner",
-      "Isonychia",
-      "Cahill"
-     ],
-     "sourceID": "west-branch-angler",
-     "summary": "Upper West 459 cfs, 51°F; Hale Eddy 689 cfs, 54°F. Lower river fishing well, upper weedy with algae. Afternoon BWOs; stain helps morning streamers.",
-     "url": "https://www.westbranchresort.com/delaware-fishing-report"
     }
    ],
    "river": "West Branch Delaware",
@@ -939,27 +916,6 @@
      "sourceID": "trout-town",
      "summary": "Low with the West Branch shrinking; wadeable but not floatable. Across the area, afternoon feeding on olives, hebes and caddis.",
      "url": "https://trouttownflies.com/reports/"
-    },
-    {
-     "condition": "good",
-     "date": "2026-09-21T16:00:00Z",
-     "flies": [
-      "BWO",
-      "Rusty spinner",
-      "Winged ant",
-      "Dry dropper"
-     ],
-     "flowCfs": 1700.0,
-     "flowGauge": "01427207",
-     "hatches": [
-      "BWO",
-      "Rusty spinner",
-      "Isonychia",
-      "Cahill"
-     ],
-     "sourceID": "west-branch-angler",
-     "summary": "Main stem at Lordville 1,730 cfs and 60°F, in good shape with safe temperatures and fishing well. Afternoon BWOs and spinners; scattered Isonychia and Cahills.",
-     "url": "https://www.westbranchresort.com/delaware-fishing-report"
     }
    ],
    "river": "Upper Delaware River",
@@ -1118,15 +1074,14 @@
    ],
    "reports": [
     {
-     "condition": "fair",
-     "date": "2026-10-20T21:11:58Z",
+     "condition": "fairToGood",
+     "date": "2026-10-21T13:15:44Z",
      "flies": [],
-     "flowCfs": 261.0,
-     "flowGauge": "04250200",
+     "flowCfs": 264.0,
      "hatches": [],
      "sourceID": "douglaston",
-     "summary": "On the private stretch Tuesday PM: 185 cfs release, 264 cfs at Pineville, 50°F. Slow in upper and middle sections, good near the estuary; kings…",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/20/114063/"
+     "summary": "Private stretch Wednesday AM: 185 cfs release, 264 cfs at Pineville, 44°F. Steelhead good in pools up top; kings and steelhead moderate below.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/21/114134/"
     },
     {
      "condition": "good",
