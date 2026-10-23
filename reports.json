@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-23T11:50:36Z",
+ "generatedAt": "2026-10-23T20:46:44Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-10-23T11:50:36Z",
+   "lastChecked": "2026-10-23T20:46:44Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -808,6 +808,19 @@
      "url": "https://trouttownflies.com/reports/"
     },
     {
+     "condition": "slow",
+     "date": "2026-10-23T14:32:14Z",
+     "flies": [],
+     "flowCfs": 275.0,
+     "hatches": [
+      "BWO",
+      "Midge"
+     ],
+     "sourceID": "beaverkill-angler",
+     "summary": "About 275 cfs: wadeable, poor for boats. Algae slimes nymphs and makes footing slick, so fish small dries on long, light leaders. BWOs, midges, spinners.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-23-2026"
+    },
+    {
      "condition": "fairToGood",
      "date": "2026-10-21T16:00:00Z",
      "flies": [
@@ -827,25 +840,6 @@
      "sourceID": "delaware-river-club",
      "summary": "Cannonsville letting out 150 cfs, 298 cfs at Hale Eddy, 49°F. Nymphs and streamers early; small olives, some Isonychia, caddis and hebes later. Last report…",
      "url": "https://thedelawareriverclub.com/delaware-river-report-october-21-2026/"
-    },
-    {
-     "condition": "slow",
-     "date": "2026-10-16T14:22:38Z",
-     "flies": [
-      "BWO",
-      "Isonychia",
-      "Caddis"
-     ],
-     "flowCfs": 348.0,
-     "flowGauge": "01426500",
-     "hatches": [
-      "BWO",
-      "Isonychia",
-      "Spinners"
-     ],
-     "sourceID": "beaverkill-angler",
-     "summary": "Low, just under 340 cfs: good wading, poor floating. Algae bloom fouls nymphs, so fish the surface with long leaders. BWOs, late Isonychia, spinners.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
     }
    ],
    "river": "West Branch Delaware",
@@ -867,20 +861,16 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-10-16T14:22:38Z",
-     "flies": [
-      "Nymphs",
-      "Small dries"
-     ],
-     "flowCfs": 89.4,
-     "flowGauge": "01417000",
+     "date": "2026-10-23T14:32:14Z",
+     "flies": [],
+     "flowCfs": 140.0,
      "hatches": [
       "BWO",
-      "Isonychia"
+      "Midge"
      ],
      "sourceID": "beaverkill-angler",
-     "summary": "Low, just under 150 cfs, with tough fishing reported. Technical water needing long leaders; nymphs and small flies give the best odds.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
+     "summary": "Low, under 140 cfs, and tough per few shop reports. Technical water: long leaders, careful downstream drifts, nymphs and small flies.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-23-2026"
     }
    ],
    "river": "East Branch Delaware",
@@ -939,6 +929,26 @@
    "reports": [
     {
      "condition": "fair",
+     "date": "2026-10-23T14:32:14Z",
+     "flies": [
+      "Griffith's Gnat",
+      "Parachute Adams",
+      "Caddis",
+      "Pheasant tail",
+      "Hare's ear",
+      "Copper John"
+     ],
+     "flowCfs": 230.0,
+     "hatches": [
+      "Midge",
+      "BWO"
+     ],
+     "sourceID": "beaverkill-angler",
+     "summary": "Low near 230 cfs and cold, 46°F after frosty nights. Mixed results; afternoons best. Tiny olives and midges trailed off a visible dry, or dry-dropper…",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-23-2026"
+    },
+    {
+     "condition": "fair",
      "date": "2026-10-22T16:00:00Z",
      "flies": [
       "Brown floating nymph #18",
@@ -957,29 +967,6 @@
      "sourceID": "trout-town",
      "summary": "Few bugs late afternoon; rainbows in choppy water refused larger patterns but took a small brown floating nymph. Longer leaders now leaves are down.",
      "url": "https://trouttownflies.com/reports/"
-    },
-    {
-     "condition": "fairToGood",
-     "date": "2026-10-16T14:22:38Z",
-     "flies": [
-      "Tan caddis",
-      "Gray caddis",
-      "Isonychia",
-      "BWO",
-      "Griffith's Gnat",
-      "Pheasant tail"
-     ],
-     "flowCfs": 278.0,
-     "flowGauge": "01420500",
-     "hatches": [
-      "Caddis",
-      "Isonychia",
-      "BWO",
-      "Spinners"
-     ],
-     "sourceID": "beaverkill-angler",
-     "summary": "Low, around 200 cfs, yet many good reports. Small dries by day and spinners at dusk produce; tan or gray caddis, Isonychia and BWOs.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
     }
    ],
    "river": "Beaverkill",
@@ -999,16 +986,21 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-10-16T14:22:38Z",
+     "date": "2026-10-23T14:32:14Z",
      "flies": [
-      "Dry dropper"
+      "Caddis",
+      "Parachute Adams",
+      "Pheasant tail",
+      "Hare's ear"
      ],
-     "flowCfs": 87.7,
-     "flowGauge": "01419500",
-     "hatches": [],
+     "flowCfs": 55.0,
+     "hatches": [
+      "Midge",
+      "BWO"
+     ],
      "sourceID": "beaverkill-angler",
-     "summary": "Low, just over 55 cfs; trout very wary and holding near the bottom of deep pockets. Shop suggests resting it or fishing a dry-dropper.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-16-2026"
+     "summary": "Under 55 cfs; trout hug the bottom in riffles and deep pockets. Nymph or run a dry-dropper; shop suggests other water may fish better.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-23-2026"
     }
    ],
    "river": "Willowemoc Creek",
@@ -1077,26 +1069,23 @@
    ],
    "reports": [
     {
-     "condition": "fair",
-     "date": "2026-10-22T21:02:32Z",
-     "flies": [],
-     "flowCfs": 260.0,
-     "flowGauge": "04250200",
-     "hatches": [],
-     "sourceID": "douglaston",
-     "summary": "On their private fee stretch: 185 cfs release, 260 at Pineville; moderate success in all three sections, kings and steelhead running upriver, light crowds.",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/22/114332/"
-    },
-    {
      "condition": "good",
-     "date": "2026-10-18T19:00:46Z",
+     "date": "2026-10-23T16:24:32Z",
      "flies": [],
-     "flowCfs": 239.0,
-     "flowGauge": "04250200",
      "hatches": [],
      "sourceID": "yankee-angler",
-     "summary": "Salmon runs slowed by October 18 with most kings and coho on gravel; steelhead, browns and a few Atlantics mixed in throughout the river.",
+     "summary": "As of October 23 most kings and coho are spawning on gravel; steelhead and browns now pushing in daily, with a few Atlantics throughout.",
      "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
+    },
+    {
+     "condition": "slow",
+     "date": "2026-10-23T13:41:37Z",
+     "flies": [],
+     "flowCfs": 248.0,
+     "hatches": [],
+     "sourceID": "douglaston",
+     "summary": "On their private fee stretch Friday AM: 185 cfs release, 248 at Pineville, 54°F. Mostly slow or quiet, moderate in spots; kings, steelhead, browns.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/23/114429/"
     }
    ],
    "river": "Salmon River",
