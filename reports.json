@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-22T20:44:27Z",
+ "generatedAt": "2026-10-23T11:50:36Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-10-22T20:44:27Z",
+   "lastChecked": "2026-10-23T11:50:36Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -355,6 +355,8 @@
       "CDC BWO emerger",
       "Snowshoe Baetis emerger"
      ],
+     "flowCfs": 138.0,
+     "flowGauge": "01571500",
      "hatches": [
       "Tan caddis",
       "October caddis",
@@ -473,6 +475,8 @@
       "Elk hair caddis",
       "Snowshoe Baetis emerger"
      ],
+     "flowCfs": 177.0,
+     "flowGauge": "01614500",
      "hatches": [
       "Midges",
       "BWO",
@@ -503,6 +507,8 @@
       "Pheasant tail",
       "Cress bug"
      ],
+     "flowCfs": 29.9,
+     "flowGauge": "01619000",
      "hatches": [
       "Midges",
       "BWO",
@@ -702,6 +708,8 @@
       "Light streamer",
       "Elk hair caddis"
      ],
+     "flowCfs": 112.0,
+     "flowGauge": "01548500",
      "hatches": [
       "BWO",
       "Brown caddis",
@@ -782,22 +790,21 @@
    ],
    "reports": [
     {
-     "condition": "fair",
-     "date": "2026-10-22T16:00:00Z",
+     "condition": "slow",
+     "date": "2026-10-23T16:00:00Z",
      "flies": [
       "Olive",
       "Spinner",
-      "Hebe",
-      "Isonychia",
+      "Nymph",
       "Streamer"
      ],
      "hatches": [
       "BWO",
-      "Spinners",
-      "Olive sulphur"
+      "Isonychia",
+      "Hebe"
      ],
      "sourceID": "trout-town",
-     "summary": "Wadeable but too low for floating. Across the area, olives, small spinners and hebes, plus nymphs; watch for spawning browns' redds.",
+     "summary": "Too low to float but wadeable; area fishing was quiet with few risers and wind. Target rainbows, leave spawning browns alone.",
      "url": "https://trouttownflies.com/reports/"
     },
     {
@@ -897,22 +904,21 @@
    ],
    "reports": [
     {
-     "condition": "fair",
-     "date": "2026-10-22T16:00:00Z",
+     "condition": "slow",
+     "date": "2026-10-23T16:00:00Z",
      "flies": [
       "Olive",
       "Spinner",
-      "Hebe",
-      "Isonychia",
+      "Nymph",
       "Streamer"
      ],
      "hatches": [
       "BWO",
-      "Spinners",
-      "Olive sulphur"
+      "Isonychia",
+      "Hebe"
      ],
      "sourceID": "trout-town",
-     "summary": "Mainstem now hard to float but wadeable. Across the area, olives, small spinners and hebes, with nymphs and a streamer as backup.",
+     "summary": "Upper mainstem too low to drift, wading fine; slow afternoon across the area. Olives, spinners and a small streamer, no sink tip needed.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -941,6 +947,8 @@
       "Isonychia",
       "Streamer"
      ],
+     "flowCfs": 238.0,
+     "flowGauge": "01420500",
      "hatches": [
       "BWO",
       "Spinners",
@@ -1035,22 +1043,21 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-10-22T16:00:00Z",
+     "date": "2026-10-23T16:00:00Z",
      "flies": [
       "Olive",
       "Spinner",
-      "Hebe",
-      "Isonychia",
+      "Nymph",
       "Streamer"
      ],
-     "flowCfs": 988.0,
+     "flowCfs": 1030.0,
      "hatches": [
       "BWO",
-      "Spinners",
-      "Olive sulphur"
+      "Isonychia",
+      "Hebe"
      ],
      "sourceID": "trout-town",
-     "summary": "Up to 988 cfs, which may limit wading. Across the area, keep it simple: olives, small spinners, hebes, nymphs and a streamer.",
+     "summary": "Still climbing slowly, now about 1030 cfs, so wading is limited; across the area carry olives, spinners, Isonychia and Hebe.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -1071,13 +1078,14 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-10-22T13:43:16Z",
+     "date": "2026-10-22T21:02:32Z",
      "flies": [],
      "flowCfs": 260.0,
+     "flowGauge": "04250200",
      "hatches": [],
      "sourceID": "douglaston",
-     "summary": "Private fee stretch, Thursday AM: 185 cfs release, 260 at Pineville. Kings and steelhead holding; good upper section, slow-to-moderate middle, moderate lower.",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/22/114287/"
+     "summary": "On their private fee stretch: 185 cfs release, 260 at Pineville; moderate success in all three sections, kings and steelhead running upriver, light crowds.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/22/114332/"
     },
     {
      "condition": "good",
