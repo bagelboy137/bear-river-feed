@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-24T11:47:22Z",
+ "generatedAt": "2026-10-24T20:44:50Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-10-24T11:47:22Z",
+   "lastChecked": "2026-10-24T20:44:50Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -1072,26 +1072,23 @@
    ],
    "reports": [
     {
-     "condition": "slow",
-     "date": "2026-10-23T21:12:26Z",
+     "condition": "good",
+     "date": "2026-10-24T16:48:30Z",
      "flies": [],
-     "flowCfs": 250.0,
-     "flowGauge": "04250200",
      "hatches": [],
-     "sourceID": "douglaston",
-     "summary": "On their private fee stretch Friday PM: 185 cfs release, 248 at Pineville, 51°F. Slow to quiet throughout; kings, steelhead and browns, light crowds.",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/23/114461/"
+     "sourceID": "yankee-angler",
+     "summary": "As of October 24 the king run has slowed with most fish spawning; steelhead and browns keep arriving daily, resting in pockets midday.",
+     "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
     },
     {
      "condition": "good",
-     "date": "2026-10-23T16:24:32Z",
+     "date": "2026-10-24T13:45:59Z",
      "flies": [],
-     "flowCfs": 250.0,
-     "flowGauge": "04250200",
+     "flowCfs": 248.0,
      "hatches": [],
-     "sourceID": "yankee-angler",
-     "summary": "As of October 23 most kings and coho are spawning on gravel; steelhead and browns now pushing in daily, with a few Atlantics throughout.",
-     "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
+     "sourceID": "douglaston",
+     "summary": "On their private fee stretch Saturday AM: 185 cfs release, 248 at Pineville, 46°F. Good in middle and lower sections, quieter up top; kings, steelhead…",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/24/114505/"
     }
    ],
    "river": "Salmon River",
