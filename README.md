@@ -20,3 +20,6 @@ issue here and it will be done on the next run.
 
 Schema version 1: `generatedAt`; `sources` (shop, page, last checked); `streams` (river, state, USGS
 gauge ids, `reports`, `links`).
+
+`osm/` holds OpenStreetMap state packs (river launches, parking, campsites, dams) that the app downloads per
+state, © OpenStreetMap contributors under the ODbL; see `osm/README.md`.
