@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-26T21:39:18Z",
+ "generatedAt": "2026-10-27T11:49:09Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-10-26T21:39:18Z",
+   "lastChecked": "2026-10-27T11:49:09Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -348,24 +348,19 @@
    "reports": [
     {
      "condition": "fairToGood",
-     "date": "2026-10-25T16:00:00Z",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [
-      "CDC caddis",
-      "Elk hair caddis",
       "CDC BWO emerger",
-      "Snowshoe Baetis emerger"
+      "Snowshoe baetis emerger"
      ],
-     "flowCfs": 131.0,
-     "flowGauge": "01571500",
      "hatches": [
-      "Tan caddis",
+      "Dark tan caddis",
       "October caddis",
       "Midges",
-      "BWO",
-      "Trico"
+      "BWO"
      ],
      "sourceID": "mike-heck",
-     "summary": "1.9 ft at the Camp Hill gauge; upper creek clear 51–53°F, lower stained 53–55°F. Caddis, October caddis, midges, olives on warm days.",
+     "summary": "1.9 ft at Camp Hill. Upper creek clear 49–52°F, lower stained 47–50°F. Warm days bring risers on caddis, October caddis, midges, olives.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -388,21 +383,19 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-10-25T16:00:00Z",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [
       "Griffith's Gnat",
       "Brassie",
-      "Snowshoe Baetis emerger",
-      "Elk hair caddis"
+      "Snowshoe baetis emerger"
      ],
      "hatches": [
       "Midges",
       "BWO",
-      "Tan caddis",
-      "Terrestrials"
+      "Tan caddis"
      ],
      "sourceID": "mike-heck",
-     "summary": "Clear, 50°F, slightly under normal flow. Trout sip midges through the day; olives come and go, plus tan caddis and terrestrials.",
+     "summary": "Clear, 50°F, a bit under normal. Midges hatch all day and fish sip them; olives sporadic, tan caddis and terrestrials too.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -438,21 +431,19 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-10-25T16:00:00Z",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [
-      "Snowshoe Baetis emerger",
+      "Snowshoe baetis emerger",
       "Griffith's Gnat",
-      "Cress bug",
       "Pheasant tail"
      ],
      "hatches": [
       "Midges",
       "Trico",
-      "BWO",
-      "Terrestrials"
+      "BWO"
      ],
      "sourceID": "mike-heck",
-     "summary": "Clear at 52°F; below-normal flow in the fly-only water, normal through town. Risers on midges, tricos, some olives and terrestrials.",
+     "summary": "Clear and 52°F everywhere; fly-only water runs below normal, town section normal. Rising fish take midges, tricos, a few olives, terrestrials.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -468,24 +459,19 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-10-25T16:00:00Z",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [
       "CDC BWO emerger",
-      "CDC caddis",
-      "Elk hair caddis",
-      "Snowshoe Baetis emerger"
+      "Snowshoe baetis emerger"
      ],
-     "flowCfs": 151.0,
-     "flowGauge": "01614500",
      "hatches": [
       "Midges",
       "BWO",
       "Tan caddis",
-      "October caddis",
-      "Trico"
+      "October caddis"
      ],
      "sourceID": "mike-heck",
-     "summary": "Low, 1.7 ft, stained and 50–55°F. Some fish rising to midges, olives, tan and October caddis; terrestrials still an option.",
+     "summary": "Low at 1.7 ft, stained, 44–52°F. A handful of fish up on midges, olives, tan and October caddis; terrestrials possible.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -500,15 +486,18 @@
    "links": [],
    "reports": [
     {
-     "condition": "good",
-     "date": "2026-10-25T16:00:00Z",
+     "condition": "fair",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [],
-     "flowCfs": 27.3,
-     "flowGauge": "01619000",
-     "hatches": [],
+     "hatches": [
+      "Midges",
+      "BWO",
+      "Dark tan caddis",
+      "October caddis"
+     ],
      "sourceID": "mike-heck",
-     "summary": "Clear water at 43°F on a frosty sunny morning; a class landed ten browns and a rainbow. Their stretch is now closed for spawning until…",
-     "url": "https://www.fallingsprings.com/mike-hecks-fishing-report/antietam-102526"
+     "summary": "Low, 2.2 ft and clear at the gauge; their sections run 42–50°F, from very dirty to clear. Midges, olives, tan and October caddis.",
+     "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
    "river": "Antietam Creek",
@@ -781,18 +770,18 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-10-26T16:00:00Z",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [
       "Pheasant tail",
-      "Streamer"
+      "Zebra midge"
      ],
      "hatches": [
       "BWO",
-      "Isonychia",
-      "Midges"
+      "Midges",
+      "Isonychia"
      ],
      "sourceID": "trout-town",
-     "summary": "Low: easy wading but no drifting. Slow day yesterday on nymphs and dry-droppers; few bugs, fish seen but not taking by mid-afternoon.",
+     "summary": "Still slightly too low to float. Area-wide the afternoon bite is slowing; small olives, midges, Isos, nymphs and streamers.",
      "url": "https://trouttownflies.com/reports/"
     },
     {
@@ -850,6 +839,21 @@
    "reports": [
     {
      "condition": "slow",
+     "date": "2026-10-27T16:00:00Z",
+     "flies": [
+      "Pheasant tail",
+      "Zebra midge"
+     ],
+     "hatches": [
+      "BWO",
+      "Midges"
+     ],
+     "sourceID": "trout-town",
+     "summary": "On the low side and would fish better with more water. Across the area, small olives and midges, nymphs; let spawning browns be.",
+     "url": "https://trouttownflies.com/reports/"
+    },
+    {
+     "condition": "slow",
      "date": "2026-10-23T14:32:14Z",
      "flies": [],
      "flowCfs": 81.2,
@@ -890,6 +894,8 @@
       "Pheasant tail",
       "Streamer"
      ],
+     "flowCfs": 874.0,
+     "flowGauge": "01427207",
      "hatches": [
       "BWO",
       "Midges"
@@ -915,20 +921,20 @@
    ],
    "reports": [
     {
-     "condition": "fair",
-     "date": "2026-10-25T16:00:00Z",
+     "condition": "slow",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [
-      "Nymph"
+      "Pheasant tail",
+      "Zebra midge",
+      "Rusty spinner"
      ],
-     "flowCfs": 207.0,
-     "flowGauge": "01420500",
      "hatches": [
-      "Midges",
       "BWO",
-      "Hebe"
+      "Midges",
+      "Isonychia"
      ],
      "sourceID": "trout-town",
-     "summary": "Low and needing rain. Across the area fish midday to late afternoon, avoid spawning redds; midges, olives, nymphs.",
+     "summary": "Low, wanting rain. Across the area the afternoon bite is fading; small olives, midges, Isos, nymphs. Rainbows better; browns spawning, avoid redds.",
      "url": "https://trouttownflies.com/reports/"
     },
     {
@@ -969,20 +975,18 @@
    ],
    "reports": [
     {
-     "condition": "fair",
-     "date": "2026-10-25T16:00:00Z",
+     "condition": "slow",
+     "date": "2026-10-27T16:00:00Z",
      "flies": [
-      "Nymph"
+      "Pheasant tail",
+      "Zebra midge"
      ],
-     "flowCfs": 49.4,
-     "flowGauge": "01419500",
      "hatches": [
-      "Midges",
       "BWO",
-      "Hebe"
+      "Midges"
      ],
      "sourceID": "trout-town",
-     "summary": "Low and wanting rain. Area-wide, cold nights mean afternoons fish best; browns and brookies spawning, rainbows taking nymphs.",
+     "summary": "Low and needing rain. Area-wide, fewer afternoon risers now; target rainbows with small olives, midges or nymphs and stay off spawning beds.",
      "url": "https://trouttownflies.com/reports/"
     },
     {
@@ -1022,7 +1026,23 @@
      "url": "https://detteflies.com/pages/daily-fishing-report"
     }
    ],
-   "reports": [],
+   "reports": [
+    {
+     "condition": "slow",
+     "date": "2026-10-27T16:00:00Z",
+     "flies": [
+      "Pheasant tail",
+      "Zebra midge"
+     ],
+     "hatches": [
+      "BWO",
+      "Midges"
+     ],
+     "sourceID": "trout-town",
+     "summary": "Low; needs more water. Area-wide, afternoons still show a few heads on small olives and midges; nymphs and streamers too.",
+     "url": "https://trouttownflies.com/reports/"
+    }
+   ],
    "river": "Neversink River",
    "state": "NY"
   },
@@ -1037,18 +1057,14 @@
    "reports": [
     {
      "condition": "poor",
-     "date": "2026-10-26T16:00:00Z",
-     "flies": [
-      "Pheasant tail",
-      "Streamer"
-     ],
+     "date": "2026-10-27T16:00:00Z",
+     "flies": [],
      "hatches": [
       "BWO",
-      "Isonychia",
       "Midges"
      ],
      "sourceID": "trout-town",
-     "summary": "Still running high from a reservoir release for portal work, so wading is hard. Area-wide, afternoons from 2 to 5 fish best.",
+     "summary": "Still high and possibly tinted, so wading is tough. Across the area small olives and midges in the afternoon.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -1071,7 +1087,8 @@
      "condition": "fair",
      "date": "2026-10-26T21:21:11Z",
      "flies": [],
-     "flowCfs": 244.0,
+     "flowCfs": 241.0,
+     "flowGauge": "04250200",
      "hatches": [],
      "shopWord": "Moderate",
      "sourceID": "douglaston",
