@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-29T11:45:47Z",
+ "generatedAt": "2026-10-29T20:45:43Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-10-29T11:45:47Z",
+   "lastChecked": "2026-10-29T20:45:43Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -1091,15 +1091,14 @@
    ],
    "reports": [
     {
-     "condition": "slow",
-     "date": "2026-10-28T20:43:18Z",
+     "condition": "fair",
+     "date": "2026-10-29T13:27:06Z",
      "flies": [],
-     "flowCfs": 237.0,
-     "flowGauge": "04250200",
+     "flowCfs": 236.0,
      "hatches": [],
      "sourceID": "douglaston",
-     "summary": "Private fee water: release steady at 185 cfs, 236 at Pineville, 46°F. Afternoon slow in every section; kings and steelhead in pools, some moving up.",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/28/114797/"
+     "summary": "On their private fee stretch: 185 cfs release, 236 at Pineville, 46°F. Kings, cohos, steelhead and browns; moderate catches in every section reported.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/10/29/114821/"
     },
     {
      "condition": "good",
