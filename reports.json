@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-06T13:36:25Z",
+ "generatedAt": "2026-11-06T21:48:51Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-11-06T13:36:25Z",
+   "lastChecked": "2026-11-06T21:48:51Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -808,6 +808,23 @@
    "reports": [
     {
      "condition": "fair",
+     "date": "2026-11-06T16:01:04Z",
+     "flies": [
+      "Parachute Adams",
+      "Streamers"
+     ],
+     "flowCfs": 570.0,
+     "hatches": [
+      "Midges",
+      "BWO",
+      "Caddis"
+     ],
+     "sourceID": "beaverkill-angler",
+     "summary": "Down to under 570 cfs from last week's high water. Wading tough with algae, boat best. Midges and olives, odd caddis; streamer season.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-11-6-2026"
+    },
+    {
+     "condition": "fair",
      "date": "2026-10-30T16:00:00Z",
      "flies": [
       "Pheasant tail"
@@ -822,22 +839,6 @@
      "sourceID": "trout-town",
      "summary": "Release raised, enough water to float again. Across the area, best 2 to 5 pm on olives, spinners, Hebes; small pheasant tails.",
      "url": "https://trouttownflies.com/reports/"
-    },
-    {
-     "condition": "fair",
-     "date": "2026-10-30T14:14:00Z",
-     "flies": [
-      "Streamer"
-     ],
-     "flowCfs": 800.0,
-     "flowGauge": "01426500",
-     "hatches": [
-      "Midge",
-      "BWO"
-     ],
-     "sourceID": "beaverkill-angler",
-     "summary": "Release raised to nearly 900 cfs: little wading, good for boats, streamers for big browns. Tiny midges and olives harder at this flow.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-30-2026"
     },
     {
      "condition": "fairToGood",
@@ -880,22 +881,20 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-10-30T14:14:00Z",
+     "date": "2026-11-06T16:01:04Z",
      "flies": [
       "Zebra midge",
-      "Parachute Adams",
-      "Caddis"
+      "Parachute Adams"
      ],
-     "flowCfs": 79.3,
-     "flowGauge": "01417000",
+     "flowCfs": 140.0,
      "hatches": [
       "BWO",
-      "Midge",
+      "Midges",
       "Caddis"
      ],
      "sourceID": "beaverkill-angler",
-     "summary": "Still low at 120 cfs, no better than last week and very technical. Olives, midges, some caddis; double dry or small dry-dropper.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-30-2026"
+     "summary": "Still low at 140 cfs, technical and difficult. Olives, midges and an occasional caddis; small flies, a dry-dropper with a zebra midge.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-11-6-2026"
     },
     {
      "condition": "slow",
@@ -968,6 +967,25 @@
    ],
    "reports": [
     {
+     "condition": "good",
+     "date": "2026-11-06T16:01:04Z",
+     "flies": [
+      "Pheasant tail",
+      "Hare's ear",
+      "Copper John",
+      "Perdigon",
+      "Parachute Adams"
+     ],
+     "flowCfs": 380.0,
+     "hatches": [
+      "BWO",
+      "Midges"
+     ],
+     "sourceID": "beaverkill-angler",
+     "summary": "Bumped to 380 cfs by rain, an ideal flow. Olives and midges on overcast afternoons; nymphs and dry-droppers, streamers for big browns. Avoid redds.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-11-6-2026"
+    },
+    {
      "condition": "fair",
      "date": "2026-10-30T16:00:00Z",
      "flies": [
@@ -984,28 +1002,6 @@
      "sourceID": "trout-town",
      "summary": "Rainbows to 19 inches landed lately, on a size 18 floating nymph and 7X. Across the area, best 2 to 5 pm on olives, spinners.",
      "url": "https://trouttownflies.com/reports/"
-    },
-    {
-     "condition": "fair",
-     "date": "2026-10-30T14:14:00Z",
-     "flies": [
-      "Parachute Adams",
-      "Caddis",
-      "Pheasant tail",
-      "Hare's ear",
-      "Copper John",
-      "Perdigon"
-     ],
-     "flowCfs": 180.0,
-     "flowGauge": "01420500",
-     "hatches": [
-      "Midge",
-      "BWO",
-      "Caddis"
-     ],
-     "sourceID": "beaverkill-angler",
-     "summary": "Low, about 180 cfs at Cooks Falls; technical, with some good days mostly on nymphs. Few risers to tiny olives and midges. Avoid redds.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-30-2026"
     }
    ],
    "river": "Beaverkill",
@@ -1024,21 +1020,21 @@
    ],
    "reports": [
     {
-     "condition": "slow",
-     "date": "2026-10-30T14:14:00Z",
+     "condition": "fair",
+     "date": "2026-11-06T16:01:04Z",
      "flies": [
       "Pheasant tail",
-      "Hare's ear"
+      "Hare's ear",
+      "Parachute Adams"
      ],
-     "flowCfs": 45.1,
-     "flowGauge": "01419500",
+     "flowCfs": 75.0,
      "hatches": [
-      "Midge",
-      "BWO"
+      "BWO",
+      "Midges"
      ],
      "sourceID": "beaverkill-angler",
-     "summary": "Under 45 cfs, trout crowded into deeper pools and stressed. Weighted nymphs or dry-dropper near bottom; shop suggests resting it or choosing other water.",
-     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-10-30-2026"
+     "summary": "Up to just over 75 cfs after rain, much improved from the season's low water. Small olives and midges on top, dry-dropper better. Fishable window.",
+     "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-11-6-2026"
     },
     {
      "condition": "slow",
@@ -1140,15 +1136,14 @@
    ],
    "reports": [
     {
-     "condition": "good",
-     "date": "2026-11-05T21:23:29Z",
+     "condition": "fair",
+     "date": "2026-11-06T14:24:32Z",
      "flies": [],
-     "flowCfs": 238.0,
-     "flowGauge": "04250200",
+     "flowCfs": 236.0,
      "hatches": [],
      "sourceID": "douglaston",
-     "summary": "On their private fee stretch: 185 cfs release, 236 at Pineville. Steelhead and browns moving up, holding in pools; moderate to good throughout, few anglers.",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/05/115261/"
+     "summary": "On their private fee stretch: 185 cfs release, 236 at Pineville, 52°F. Steelhead and a few browns moving upriver; moderate success, better lower, crowds up.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/06/115327/"
     },
     {
      "condition": "good",
