@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-08T21:43:55Z",
+ "generatedAt": "2026-11-09T12:45:05Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-11-08T21:43:55Z",
+   "lastChecked": "2026-11-09T12:45:05Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -217,8 +217,8 @@
       "October caddis"
      ],
      "sourceID": "homewaters",
-     "summary": "Low, clear and technical, but fishing stays good. Dries and dry-dropper rigs still work; nymphs on light tippet are productive.",
-     "url": "https://www.homewatersclub.com/fishing-reports/"
+     "summary": "Dry weeks left water low and clear, so fishing is technical but good. Dries and dry-droppers still work; nymphing productive.",
+     "url": "https://www.homewatersclub.com/news/stream-reports/"
     }
    ],
    "river": "Spruce Creek",
@@ -293,20 +293,19 @@
    ],
    "reports": [
     {
-     "condition": "fairToGood",
-     "date": "2026-11-08T16:00:00Z",
+     "condition": "fair",
+     "date": "2026-11-09T16:00:00Z",
      "flies": [
       "CDC caddis",
-      "Elk hair caddis",
-      "CDC BWO emerger"
+      "BWO emerger"
      ],
      "hatches": [
-      "Dark tan caddis",
+      "Tan caddis",
       "October caddis",
-      "BWO"
+      "Midges"
      ],
      "sourceID": "mike-heck",
-     "summary": "Upper section clear at 49-52 degrees, lower stained and a bit cooler. Warm days bring rises to caddis and a few olives.",
+     "summary": "Gauge reads 1.9 ft. Upper section clear at 49-52F, lower stained at 47-50F. Warm days bring rises to caddis and midges.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -329,11 +328,10 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-08T16:00:00Z",
+     "date": "2026-11-09T16:00:00Z",
      "flies": [
-      "Hackle midge",
-      "Griffith's Gnat",
-      "Snowshoe emerger"
+      "Midge pupa",
+      "Snowshoe baetis emerger"
      ],
      "hatches": [
       "Midges",
@@ -341,7 +339,7 @@
       "Tan caddis"
      ],
      "sourceID": "mike-heck",
-     "summary": "Slightly low, clear and 50 degrees. Trout sipping midges through the day, with occasional olives and tan caddis.",
+     "summary": "Flow a little lower than normal, clear and around 50F. Trout sipping midges through the day, olives on and off, tan caddis.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -377,19 +375,18 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-08T16:00:00Z",
+     "date": "2026-11-09T16:00:00Z",
      "flies": [
-      "Snowshoe emerger",
-      "Griffith's Gnat",
-      "Foam ant"
+      "Trico spinner",
+      "BWO emerger"
      ],
      "hatches": [
       "Midges",
-      "Tricos",
+      "Trico",
       "BWO"
      ],
      "sourceID": "mike-heck",
-     "summary": "Clear at 52 degrees, flow under normal in the fly-only stretch but normal in town. Wild trout are picky; fine tippets and small flies.",
+     "summary": "Clear at 52F, flow below normal in the fly-only area and normal in town; trout rising to midges, tricos, a few olives.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -405,10 +402,9 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-11-08T16:00:00Z",
+     "date": "2026-11-09T16:00:00Z",
      "flies": [
-      "CDC BWO emerger",
-      "CDC caddis"
+      "BWO emerger"
      ],
      "hatches": [
       "Midges",
@@ -416,7 +412,7 @@
       "Tan caddis"
      ],
      "sourceID": "mike-heck",
-     "summary": "Low and stained at 44-52 degrees. Only a few trout rising to midges, olives and caddis.",
+     "summary": "Low, stained water at 1.7 ft and 44-52F. Only a few trout rising to midges and olives.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -432,19 +428,17 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-08T16:00:00Z",
+     "date": "2026-11-09T16:00:00Z",
      "flies": [
-      "Snowshoe emerger",
-      "CDC blue dun emerger",
-      "Elk hair caddis"
+      "Snowshoe baetis emerger"
      ],
      "hatches": [
       "Midges",
       "BWO",
-      "Dark tan caddis"
+      "Tan caddis"
      ],
      "sourceID": "mike-heck",
-     "summary": "Low and clear on the main stem; farmhouse and middle sections stained at 42-50 degrees, spring-fed lower section clear.",
+     "summary": "Low flow (2.2 ft); upper sections stained, spring-fed third section clear at 42-50F. Midges, olives and caddis hatching.",
      "url": "https://www.fallingsprings.com/stream-conditions"
     }
    ],
@@ -618,11 +612,11 @@
    ],
    "reports": [
     {
-     "condition": "good",
+     "condition": "fair",
      "date": "2026-10-28T16:00:00Z",
      "flies": [
+      "Streamers",
       "Pheasant tail",
-      "Light streamers",
       "Elk hair caddis"
      ],
      "flowCfs": 99.8,
@@ -633,7 +627,7 @@
       "Midges"
      ],
      "sourceID": "slate-run",
-     "summary": "Low, clear water in the valley. Streamers are productive, nymphing is steady, and some afternoon dry-fly activity. Avoid wading over spawning redds.",
+     "summary": "Low, clear water and rain needed; streamers fishing well, nymphing steady, sporadic afternoon dries. Avoid walking on redds.",
      "url": "https://wolfesgeneralstore.com/fishing/stream-conditions/"
     }
    ],
@@ -712,12 +706,19 @@
     {
      "condition": "fair",
      "date": "2026-10-30T16:00:00Z",
-     "flies": [],
+     "flies": [
+      "Streamers",
+      "Nymphs"
+     ],
      "flowCfs": 800.0,
      "flowGauge": "01426500",
-     "hatches": [],
+     "hatches": [
+      "BWO",
+      "Tan caddis",
+      "October caddis"
+     ],
      "sourceID": "trout-town",
-     "summary": "More water being released, enough to float, with a bump expected on the mainstem.",
+     "summary": "Running about 632 cfs and rising on the morning gauge reading, cool water; wading or floating possible. Olives, caddis, streamers.",
      "url": "https://trouttownflies.com/reports/"
     },
     {
@@ -778,19 +779,21 @@
      "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-11-6-2026"
     },
     {
-     "condition": "slow",
-     "date": "2026-10-28T16:00:00Z",
-     "flies": [],
+     "condition": "fair",
+     "date": "2026-10-30T16:00:00Z",
+     "flies": [
+      "Streamers",
+      "Nymphs"
+     ],
      "flowCfs": 79.3,
      "flowGauge": "01417000",
      "hatches": [
       "BWO",
-      "Midges",
-      "Hebe",
-      "Caddis"
+      "Tan caddis",
+      "October caddis"
      ],
      "sourceID": "trout-town",
-     "summary": "Low, needs rain. Across the area, a few afternoon risers on olives and midges; browns spawning, so target rainbows.",
+     "summary": "Wadeable at about 120 cfs on the morning gauge reading, cool water; olives, caddis and streamers are the shop's picks.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -818,17 +821,18 @@
      "condition": "fair",
      "date": "2026-10-30T16:00:00Z",
      "flies": [
-      "Pheasant tail"
+      "Streamers",
+      "Nymphs"
      ],
      "flowCfs": 1060.0,
      "flowGauge": "01427207",
      "hatches": [
       "BWO",
-      "Hebe",
-      "Sulphur"
+      "Tan caddis",
+      "October caddis"
      ],
      "sourceID": "trout-town",
-     "summary": "Higher West Branch release should lift the mainstem by late Friday. Across the area, best 2 to 5 pm on olives, spinners; small pheasant tails.",
+     "summary": "Running about 910 cfs and rising on the morning gauge reading, cool water; wading or floating possible. Olives, caddis, streamers.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -868,19 +872,21 @@
      "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-11-6-2026"
     },
     {
-     "condition": "good",
+     "condition": "fair",
      "date": "2026-10-30T16:00:00Z",
      "flies": [
-      "Pheasant tail"
+      "Streamers",
+      "Nymphs"
      ],
      "flowCfs": 180.0,
      "flowGauge": "01420500",
      "hatches": [
-      "Olives",
-      "Sulphur"
+      "BWO",
+      "Tan caddis",
+      "October caddis"
      ],
      "sourceID": "trout-town",
-     "summary": "Nervous-water rainbows of 17-19 inches in recent weeks; best fishing mid-afternoon with small olives and spinners on fine tippet.",
+     "summary": "Wadeable at about 182 cfs on the morning gauge reading, cool water; olives, caddis and streamers are the shop's picks.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -918,19 +924,21 @@
      "url": "https://beaverkillangler.com/blogs/fishing-report/catskill-fly-fishing-report-11-6-2026"
     },
     {
-     "condition": "slow",
-     "date": "2026-10-28T16:00:00Z",
-     "flies": [],
-     "flowCfs": 45.3,
+     "condition": "fair",
+     "date": "2026-10-30T16:00:00Z",
+     "flies": [
+      "Streamers",
+      "Nymphs"
+     ],
+     "flowCfs": 45.1,
      "flowGauge": "01419500",
      "hatches": [
       "BWO",
-      "Midges",
-      "Hebe",
-      "Caddis"
+      "Tan caddis",
+      "October caddis"
      ],
      "sourceID": "trout-town",
-     "summary": "Low, wants rain. Across the area afternoons are best with sparse olives, midges and caddis; aim for rainbows, avoid redds.",
+     "summary": "Wadeable at about 44 cfs on the morning gauge reading, cool water; olives, caddis and streamers are the shop's picks.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -953,19 +961,21 @@
    ],
    "reports": [
     {
-     "condition": "slow",
-     "date": "2026-10-28T16:00:00Z",
-     "flies": [],
-     "flowCfs": 123.0,
+     "condition": "fair",
+     "date": "2026-10-30T16:00:00Z",
+     "flies": [
+      "Streamers",
+      "Nymphs"
+     ],
+     "flowCfs": 119.0,
      "flowGauge": "01435000",
      "hatches": [
       "BWO",
-      "Midges",
-      "Hebe",
-      "Caddis"
+      "Tan caddis",
+      "October caddis"
      ],
      "sourceID": "trout-town",
-     "summary": "Low; would fish better after rain. Area-wide, scattered afternoon heads on olives, midges and Hebes.",
+     "summary": "Wadeable at about 100 cfs on the morning gauge reading, cool water; olives, caddis and streamers are the shop's picks.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -983,21 +993,20 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-10-29T16:00:00Z",
+     "date": "2026-10-30T16:00:00Z",
      "flies": [
-      "Pheasant tail"
+      "Streamers",
+      "Nymphs"
      ],
-     "flowCfs": 44.4,
+     "flowCfs": 42.8,
      "flowGauge": "01362200",
      "hatches": [
       "BWO",
-      "Midges",
-      "Caddis",
-      "Isonychia",
-      "Hebe"
+      "Tan caddis",
+      "October caddis"
      ],
      "sourceID": "trout-town",
-     "summary": "Still dropping and easier to wade, running clear. Across the area, olives, midges, spinners, small caddis; nymphs like pheasant tails.",
+     "summary": "Wadeable at about 398 cfs on the morning gauge reading, cool water; olives, caddis and streamers are the shop's picks.",
      "url": "https://trouttownflies.com/reports/"
     }
    ],
@@ -1017,27 +1026,27 @@
    ],
    "reports": [
     {
-     "condition": "fairToGood",
+     "condition": "fair",
      "date": "2026-11-08T16:00:00Z",
      "flies": [],
-     "flowCfs": 281.0,
+     "flowCfs": 272.0,
+     "flowGauge": "04250200",
      "hatches": [],
      "sourceID": "douglaston",
-     "summary": "Private fee-fishing stretch: clear water, 53°F, dam release 185 cfs; steelhead holding in pools, moderate success, good in the lower section, light crowds.",
+     "summary": "Private fee stretch: dam release 185 cfs, 53F and very clear. Steelhead holding in pools; success moderate upper and middle, good lower.",
      "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/08/115397/"
     },
     {
      "condition": "good",
      "date": "2026-11-02T16:00:00Z",
      "flies": [
-      "Egg sack",
-      "Glo bug"
+      "Egg patterns"
      ],
      "flowCfs": 238.0,
      "flowGauge": "04250200",
      "hatches": [],
      "sourceID": "yankee-angler",
-     "summary": "Steelhead scattered throughout the river, eating eggs behind spawning browns. Fish choppy, rippled water with orange, cream or peach egg patterns. No major runs yet.",
+     "summary": "Water above 43F; steelhead scattered through the river, some behind spawning browns. First noticeable increase in fish, no major runs yet.",
      "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
     }
    ],
@@ -1058,21 +1067,19 @@
      "condition": "good",
      "date": "2026-10-16T16:00:00Z",
      "flies": [
-      "Chubby Chernobyl",
-      "Stimulator",
-      "Zug Bug",
+      "Streamers",
+      "Girdle bug",
       "Pheasant tail",
-      "Sparkle minnow"
+      "Zug bug"
      ],
      "flowCfs": 626.0,
      "hatches": [
+      "BWO",
       "Caddis",
-      "Stoneflies",
-      "Isonychia",
-      "BWO"
+      "Isonychia"
      ],
      "sourceID": "hungry-trout",
-     "summary": "Flow leveled off after high water, clear at 52 degrees. Streamers and big nymphs under an indicator produce; large dries also taking fish.",
+     "summary": "Flow settled at a fishy 626 cfs, clear and 52F. Big streamers and girdle bugs draw strikes; large terrestrials and attractor dries work.",
      "url": "https://hungrytroutflyshop.com/a-rainy-day-at-last/"
     }
    ],
@@ -1177,7 +1184,7 @@
       "BWO"
      ],
      "sourceID": "savage-river-outfitters",
-     "summary": "Releases at 75 cfs and 62 degrees. Sparse hatches, best evenings; lower river off color but clearing. Dry-dropper or dark nymphs.",
+     "summary": "Dam release 75 cfs at 62F, hatches sparse; evening olives best. Dry-dropper or dark nymphs otherwise. Lower river off-color but clearing.",
      "url": "https://www.savageriveroutfitters.com/fishing-report/"
     }
    ],
@@ -1200,12 +1207,18 @@
     {
      "condition": "good",
      "date": "2026-10-15T16:00:00Z",
-     "flies": [],
+     "flies": [
+      "Pheasant tail",
+      "Zebra midge",
+      "Perdigon"
+     ],
      "flowCfs": 354.0,
      "flowGauge": "01595800",
-     "hatches": [],
+     "hatches": [
+      "BWO"
+     ],
      "sourceID": "savage-river-outfitters",
-     "summary": "Fishing well with 350 cfs from Barnum and water in the mid 50s.",
+     "summary": "Fishing well with about 350 cfs from the dam and water in the mid 50s; stretch below the old mill cleared.",
      "url": "https://www.savageriveroutfitters.com/fishing-report/"
     }
    ],
