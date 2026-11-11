@@ -36,7 +36,7 @@ logbook" makes a folder you can save to Files or AirDrop; "Bring in a backup" ad
 phone doesn't already have.
 
 **Put-ins and campsites are missing for my state.** They come from OpenStreetMap, and Bear River carries that data
-for Pennsylvania, New Jersey, New York, Delaware, Maryland and Virginia so far. Gauges, river lines, search and the
+for Pennsylvania, New Jersey, New York, Delaware, Maryland, Virginia, West Virginia, North Carolina, Ohio, Connecticut, Massachusetts, Vermont, New Hampshire and Maine so far. Gauges, river lines, search and the
 stream card work in every state.
 
 **Refunds.** Purchases are handled by Apple: reportaproblem.apple.com.
