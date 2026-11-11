@@ -1,5 +1,5 @@
 ---
-title: Bear River: support
+title: "Bear River: support"
 permalink: /support/
 ---
 

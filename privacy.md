@@ -1,5 +1,5 @@
 ---
-title: Bear River: privacy policy
+title: "Bear River: privacy policy"
 permalink: /privacy/
 ---
 
