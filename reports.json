@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-14T12:44:14Z",
+ "generatedAt": "2026-11-14T21:45:38Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-11-14T12:44:14Z",
+   "lastChecked": "2026-11-14T21:45:38Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -612,22 +612,18 @@
    ],
    "reports": [
     {
-     "condition": "good",
-     "date": "2026-10-28T16:00:00Z",
+     "condition": "fair",
+     "date": "2026-11-14T16:33:58Z",
      "flies": [
+      "Lively Legz nymph",
       "Pheasant tail",
-      "Elk hair caddis",
-      "Light streamers"
+      "Light streamer",
+      "Egg",
+      "Hare's ear"
      ],
-     "flowCfs": 99.8,
-     "flowGauge": "01548500",
-     "hatches": [
-      "BWO",
-      "Brown caddis",
-      "Midges"
-     ],
+     "hatches": [],
      "sourceID": "slate-run",
-     "summary": "Low, clear water needing rain, yet streamers are fishing very well. Nymphs steady, occasional afternoon dries; trout on redds should be left alone.",
+     "summary": "Still low and clear, waiting on rain. Streamers productive through the main stem; nymphs most effective. Avoid wading over spawning redds.",
      "url": "https://wolfesgeneralstore.com/fishing/stream-conditions/"
     }
    ],
@@ -1015,15 +1011,14 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-11-13T20:18:20Z",
+     "date": "2026-11-14T21:10:38Z",
      "flies": [],
-     "flowCfs": 263.0,
-     "flowGauge": "04250200",
+     "flowCfs": 260.0,
      "hatches": [],
      "shopWord": "Slow to Moderate",
      "sourceID": "douglaston",
-     "summary": "On their private fee stretch: 185 cfs release, 260 at Pineville, water 42°F; steelhead only, catching slow to moderate amid heavy crowds.",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/13/115662/"
+     "summary": "On their private fee stretch: 185 cfs release, 260 at Pineville, 43°F in rain and snow; steelhead slow to moderate, heavy angler density.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/14/115684/"
     },
     {
      "condition": "good",
@@ -1147,25 +1142,7 @@
      "url": "https://fishingreports.orvis.com/northeast/maryland/savage-river"
     }
    ],
-   "reports": [
-    {
-     "condition": "fair",
-     "date": "2026-10-15T16:00:00Z",
-     "flies": [
-      "Pheasant tail",
-      "Zebra midge",
-      "Perdigon"
-     ],
-     "flowCfs": 74.2,
-     "flowGauge": "01597500",
-     "hatches": [
-      "BWO"
-     ],
-     "sourceID": "savage-river-outfitters",
-     "summary": "Tailwater at 75 cfs and 62 degrees; hatches sparse, evening olives weak. Lower stretch stained from rain but clearing. Dropper or nymphs work.",
-     "url": "https://www.savageriveroutfitters.com/fishing-report/"
-    }
-   ],
+   "reports": [],
    "river": "Savage River",
    "state": "MD"
   },
@@ -1181,22 +1158,7 @@
      "url": "https://fishingreports.orvis.com/northeast/maryland/north-branch-potomac"
     }
    ],
-   "reports": [
-    {
-     "condition": "good",
-     "date": "2026-10-15T16:00:00Z",
-     "flies": [
-      "Pheasant tail",
-      "Perdigon"
-     ],
-     "flowCfs": 354.0,
-     "flowGauge": "01595800",
-     "hatches": [],
-     "sourceID": "savage-river-outfitters",
-     "summary": "Fishing well with 350 cfs and water in the mid-50s. Same dark nymph patterns as the Savage, plus cleaner water below the old mill.",
-     "url": "https://www.savageriveroutfitters.com/fishing-report/"
-    }
-   ],
+   "reports": [],
    "river": "North Branch Potomac",
    "state": "MD"
   }
