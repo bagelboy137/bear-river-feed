@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-15T12:43:48Z",
+ "generatedAt": "2026-11-15T22:17:53Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,15 +11,15 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Sky Blue Outfitters",
-   "status": "ok",
+   "status": "error",
    "town": "Pennsylvania",
    "url": "https://skyblueoutfitters.com/stream-report/"
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,15 +75,15 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "The Beaverkill (weekly report)",
-   "status": "ok",
+   "status": "error",
    "town": "Catskills, NY",
    "url": "https://thebeaverkill.com/weekly-fishing-report"
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-11-15T12:43:48Z",
+   "lastChecked": "2026-11-15T22:17:53Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -299,13 +299,11 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-14T16:00:00Z",
+     "date": "2026-11-15T16:00:00Z",
      "flies": [
       "CDC BWO emerger",
       "CDC caddis"
      ],
-     "flowCfs": 115.0,
-     "flowGauge": "01571500",
      "hatches": [
       "Midges",
       "BWO"
@@ -334,7 +332,7 @@
    "reports": [
     {
      "condition": "good",
-     "date": "2026-11-14T16:00:00Z",
+     "date": "2026-11-15T16:00:00Z",
      "flies": [
       "Hackle midge",
       "Griffith's gnat",
@@ -381,7 +379,7 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-14T16:00:00Z",
+     "date": "2026-11-15T16:00:00Z",
      "flies": [
       "BWO CDC emerger",
       "Hackle midge",
@@ -408,12 +406,10 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-11-14T16:00:00Z",
+     "date": "2026-11-15T16:00:00Z",
      "flies": [
       "CDC BWO emerger"
      ],
-     "flowCfs": 111.0,
-     "flowGauge": "01614500",
      "hatches": [
       "Midges",
       "BWO"
@@ -435,10 +431,8 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-14T16:00:00Z",
+     "date": "2026-11-15T16:00:00Z",
      "flies": [],
-     "flowCfs": 31.3,
-     "flowGauge": "01619000",
      "hatches": [
       "Midges",
       "BWO"
@@ -1018,16 +1012,14 @@
    ],
    "reports": [
     {
-     "condition": "slow",
-     "date": "2026-11-14T21:10:38Z",
+     "condition": "fair",
+     "date": "2026-11-15T21:39:47Z",
      "flies": [],
-     "flowCfs": 261.0,
-     "flowGauge": "04250200",
      "hatches": [],
-     "shopWord": "Slow to Moderate",
+     "shopWord": "Moderate",
      "sourceID": "douglaston",
-     "summary": "On their private fee stretch: 185 cfs release, 260 at Pineville, 43°F in rain and snow; steelhead slow to moderate, heavy angler density.",
-     "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/14/115684/"
+     "summary": "On their private fee stretch: 185 cfs release, 256 at Pineville, 41°F, good clarity; most anglers hooked steelhead, light to moderate crowds.",
+     "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/15/115713/"
     },
     {
      "condition": "good",
@@ -1053,18 +1045,7 @@
      "url": "https://fishingreports.orvis.com/northeast/new-york/ausable-river-west-branch"
     }
    ],
-   "reports": [
-    {
-     "condition": "good",
-     "date": "2026-10-16T16:00:00Z",
-     "flies": [],
-     "flowCfs": 626.0,
-     "hatches": [],
-     "sourceID": "hungry-trout",
-     "summary": "Flow 626 cfs and clear at 52 degrees after the rain. Shop calls the river leveled off at a nicely fishable height.",
-     "url": "https://hungrytroutflyshop.com/a-rainy-day-at-last/"
-    }
-   ],
+   "reports": [],
    "river": "West Branch Ausable River",
    "state": "NY"
   },
@@ -1079,19 +1060,7 @@
      "url": "https://fishingreports.orvis.com/northeast/new-york/saranac-river"
     }
    ],
-   "reports": [
-    {
-     "condition": "good",
-     "date": "2026-10-16T16:00:00Z",
-     "flies": [],
-     "flowCfs": 1080.0,
-     "flowGauge": "04273500",
-     "hatches": [],
-     "sourceID": "hungry-trout",
-     "summary": "Strong reports this past week, dries and streamers working, evenings best. Smallmouth, pike and trout caught; trout mainly mornings or from reservoir depths.",
-     "url": "https://hungrytroutflyshop.com/a-rainy-day-at-last/"
-    }
-   ],
+   "reports": [],
    "river": "Saranac River",
    "state": "NY"
   },
@@ -1117,25 +1086,7 @@
      "url": "https://fishingreports.orvis.com/northeast/maryland/big-gunpowder-falls-river"
     }
    ],
-   "reports": [
-    {
-     "condition": "good",
-     "date": "2026-10-16T17:48:03Z",
-     "flies": [
-      "Caddis"
-     ],
-     "flowCfs": 30.2,
-     "flowGauge": "01581920",
-     "hatches": [
-      "Midges",
-      "BWO",
-      "Slate drake"
-     ],
-     "sourceID": "backwater-angler",
-     "summary": "29.7 cfs, clear, 56°F, now below bankfull and easier to wade. Midges and BWOs strong mid-morning on flats; few slate drakes. Avoid trout redds.",
-     "url": "https://backwaterangler.com/2026/10/16/gunpowder-river-stream-report-22/"
-    }
-   ],
+   "reports": [],
    "river": "Gunpowder Falls",
    "state": "MD"
   },
