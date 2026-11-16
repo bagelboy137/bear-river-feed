@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-15T22:17:53Z",
+ "generatedAt": "2026-11-16T12:43:44Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,15 +11,15 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Sky Blue Outfitters",
-   "status": "error",
+   "status": "ok",
    "town": "Pennsylvania",
    "url": "https://skyblueoutfitters.com/stream-report/"
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,15 +75,15 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "The Beaverkill (weekly report)",
-   "status": "error",
+   "status": "ok",
    "town": "Catskills, NY",
    "url": "https://thebeaverkill.com/weekly-fishing-report"
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-11-15T22:17:53Z",
+   "lastChecked": "2026-11-16T12:43:44Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -304,6 +304,8 @@
       "CDC BWO emerger",
       "CDC caddis"
      ],
+     "flowCfs": 113.0,
+     "flowGauge": "01571500",
      "hatches": [
       "Midges",
       "BWO"
@@ -410,6 +412,8 @@
      "flies": [
       "CDC BWO emerger"
      ],
+     "flowCfs": 111.0,
+     "flowGauge": "01614500",
      "hatches": [
       "Midges",
       "BWO"
@@ -433,6 +437,8 @@
      "condition": "fair",
      "date": "2026-11-15T16:00:00Z",
      "flies": [],
+     "flowCfs": 31.3,
+     "flowGauge": "01619000",
      "hatches": [
       "Midges",
       "BWO"
@@ -1015,6 +1021,8 @@
      "condition": "fair",
      "date": "2026-11-15T21:39:47Z",
      "flies": [],
+     "flowCfs": 256.0,
+     "flowGauge": "04250200",
      "hatches": [],
      "shopWord": "Moderate",
      "sourceID": "douglaston",
