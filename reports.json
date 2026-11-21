@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-20T21:45:38Z",
+ "generatedAt": "2026-11-21T12:43:48Z",
  "sources": [
   {
    "id": "slate-run",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Slate Run Tackle",
    "status": "ok",
    "town": "Slate Run, PA",
@@ -11,7 +11,7 @@
   },
   {
    "id": "sky-blue",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Sky Blue Outfitters",
    "status": "ok",
    "town": "Pennsylvania",
@@ -19,7 +19,7 @@
   },
   {
    "id": "mike-heck",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Mike Heck's Trout Guides",
    "status": "ok",
    "town": "Chambersburg, PA",
@@ -27,7 +27,7 @@
   },
   {
    "id": "homewaters",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "HomeWaters Club",
    "status": "ok",
    "town": "Spruce Creek, PA",
@@ -35,7 +35,7 @@
   },
   {
    "id": "feathered-hook",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "The Feathered Hook",
    "status": "ok",
    "town": "Coburn, PA",
@@ -43,7 +43,7 @@
   },
   {
    "id": "delaware-river-club",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "The Delaware River Club",
    "status": "ok",
    "town": "Starlight, PA",
@@ -51,7 +51,7 @@
   },
   {
    "id": "west-branch-angler",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "West Branch Angler",
    "status": "ok",
    "town": "Hancock, NY",
@@ -59,7 +59,7 @@
   },
   {
    "id": "beaverkill-angler",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Beaverkill Angler",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -67,7 +67,7 @@
   },
   {
    "id": "trout-town",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Trout Town Flies",
    "status": "ok",
    "town": "Roscoe, NY",
@@ -75,7 +75,7 @@
   },
   {
    "id": "beaverkill-books",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "The Beaverkill (weekly report)",
    "status": "ok",
    "town": "Catskills, NY",
@@ -83,7 +83,7 @@
   },
   {
    "id": "yankee-angler",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Yankee Angler",
    "status": "ok",
    "town": "Pulaski, NY",
@@ -91,7 +91,7 @@
   },
   {
    "id": "douglaston",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Douglaston Salmon Run",
    "status": "ok",
    "town": "Pulaski, NY · private fee water",
@@ -99,7 +99,7 @@
   },
   {
    "id": "hungry-trout",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "The Hungry Trout",
    "status": "ok",
    "town": "Wilmington, NY",
@@ -107,7 +107,7 @@
   },
   {
    "id": "backwater-angler",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Backwater Angler",
    "status": "ok",
    "town": "Monkton, MD",
@@ -115,7 +115,7 @@
   },
   {
    "id": "savage-river-outfitters",
-   "lastChecked": "2026-11-20T21:45:38Z",
+   "lastChecked": "2026-11-21T12:43:48Z",
    "shop": "Savage River Outfitters",
    "status": "ok",
    "town": "Garrett County, MD",
@@ -299,7 +299,7 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-20T16:00:00Z",
+     "date": "2026-11-21T16:00:00Z",
      "flies": [
       "CDC BWO emerger",
       "CDC caddis"
@@ -332,7 +332,7 @@
    "reports": [
     {
      "condition": "good",
-     "date": "2026-11-20T16:00:00Z",
+     "date": "2026-11-21T16:00:00Z",
      "flies": [
       "Hackle midge",
       "Griffith's gnat",
@@ -379,7 +379,7 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-20T16:00:00Z",
+     "date": "2026-11-21T16:00:00Z",
      "flies": [
       "BWO CDC emerger",
       "Hackle midge",
@@ -406,7 +406,7 @@
    "reports": [
     {
      "condition": "slow",
-     "date": "2026-11-20T16:00:00Z",
+     "date": "2026-11-21T16:00:00Z",
      "flies": [
       "CDC BWO emerger"
      ],
@@ -431,7 +431,7 @@
    "reports": [
     {
      "condition": "fair",
-     "date": "2026-11-20T16:00:00Z",
+     "date": "2026-11-21T16:00:00Z",
      "flies": [],
      "hatches": [
       "Midges",
@@ -996,25 +996,27 @@
    ],
    "reports": [
     {
+     "condition": "good",
+     "date": "2026-11-21T16:00:00Z",
+     "flies": [
+      "Egg sac",
+      "Glo bug"
+     ],
+     "hatches": [],
+     "sourceID": "yankee-angler",
+     "summary": "Water 44-49 degrees; steelhead spread top to bottom, most settled in fall runs, numbers rising daily. Egg sacks and cream or peach egg flies work.",
+     "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
+    },
+    {
      "condition": "fair",
      "date": "2026-11-20T21:13:48Z",
      "flies": [],
-     "flowCfs": 236.0,
+     "flowCfs": 237.0,
+     "flowGauge": "04250200",
      "hatches": [],
      "sourceID": "douglaston",
      "summary": "Private fee water: 185 cfs release, 236 at Pineville, 45°F. Steelhead the main catch; success moderate, best mid-run, with busy banks.",
      "url": "https://douglastonsalmonrun.com/fishing-report/2026/11/20/115986/"
-    },
-    {
-     "condition": "good",
-     "date": "2026-11-02T16:00:00Z",
-     "flies": [],
-     "flowCfs": 238.0,
-     "flowGauge": "04250200",
-     "hatches": [],
-     "sourceID": "yankee-angler",
-     "summary": "Steelhead scattered from top to bottom with water above 43 degrees; no major run yet, though numbers climb. Fish feed on egg patterns behind spawning…",
-     "url": "https://www.yankeeangler.com/yankee-angler-fishing-report/"
     }
    ],
    "river": "Salmon River",
